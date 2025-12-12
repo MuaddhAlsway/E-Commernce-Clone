@@ -8,7 +8,7 @@ A modern, responsive e-commerce website for Adidas sportswear and lifestyle prod
 
 ## 🚀 Live Demo
 
-[View Live Website](https://your-website-url.com) <!-- Replace with your actual URL -->
+[View Live Website](https://muaddhalsway.github.io/E-Commernce-Clone/public/index.html) <!-- Replace with your actual URL -->
 
 ## 📋 Table of Contents
 
@@ -63,13 +63,11 @@ A modern, responsive e-commerce website for Adidas sportswear and lifestyle prod
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x400/fda702/ffffff?text=Desktop+View)
+![Desktop Screenshot](https://github.com/MuaddhAlsway/E-Commernce-Clone/blob/main/public/img/screencapture-muaddhalsway-github-io-E-Commernce-Clone-public-index-html-2025-12-12-04_45_43.png)
 
 ### Mobile View
-![Mobile Screenshot]([https://via.placeholder.com/300x600/fda702/ffffff?text=Mobile+View](https://github.com/MuaddhAlsway/E-Commernce-Clone/blob/main/public/img/DADDA.png))
+![Mobile Screenshot](https://github.com/MuaddhAlsway/E-Commernce-Clone/blob/main/public/img/DADDA.png)
 
-### Product Catalog
-![Products Screenshot](https://via.placeholder.com/800x400/fda702/ffffff?text=Product+Catalog)
 
 ## 🚀 Installation
 
@@ -236,13 +234,11 @@ We welcome contributions! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-**Developer**: Your Name
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [your-website.com](https://your-website.com)
+**Developer**: Muaddh Alsway
+- 📧 Email: muaddhalsway@gmail.com
+- 🐙 GitHub: [@MuaddhAlsway](https://github.com/MuaddhAlsway)
+- 💼 LinkedIn: [Muaddh Alsway](https://www.linkedin.com/in/muaddh-alsway/)
+- 🌐 Live Demo: [E-Commerce Clone](https://muaddhalsway.github.io/E-Commernce-Clone/public/index.html)
 
 ## 🙏 Acknowledgments
 
@@ -267,4 +263,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Muaddh ALSway](https://github.com/MuaddhAlsway)
