@@ -66,7 +66,7 @@ A modern, responsive e-commerce website for Adidas sportswear and lifestyle prod
 ![Desktop Screenshot](https://via.placeholder.com/800x400/fda702/ffffff?text=Desktop+View)
 
 ### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/300x600/fda702/ffffff?text=Mobile+View)
+![Mobile Screenshot]([https://via.placeholder.com/300x600/fda702/ffffff?text=Mobile+View](https://github.com/MuaddhAlsway/E-Commernce-Clone/blob/main/public/img/DADDA.png))
 
 ### Product Catalog
 ![Products Screenshot](https://via.placeholder.com/800x400/fda702/ffffff?text=Product+Catalog)
